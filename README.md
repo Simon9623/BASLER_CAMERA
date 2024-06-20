@@ -1,4 +1,4 @@
-# BASLER_CAM
+# BASLER_CAM(BASLER acA2500 - 14gm)
 
 ## Pylon Viewer (Setup the IP)
 
