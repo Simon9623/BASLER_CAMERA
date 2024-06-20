@@ -1,15 +1,17 @@
 # BASLER_CAM
-## Pylon Viewer(setup the ip)
-**1. Set up the ip(GigE Vision):**
-'''
-  -Open up the 乙太網路 內容
-  -choose TCP/IPv4 and press property
-  -pick up 使用下列的ip地址:
-    IP位置: 10 . 10 . 10 . 10
-    子網路遮罩: 255 . 255 . 255 . 0
-  -Open up Pylon IP Configurator
-  -Choose "Static IP"
-  -IP address: 10 . 10 . 10 . 11(前三位要一樣)
-  -Subnet Mask(子網路遮罩: 255 . 255 . 255 . 0)
-  -Press "save"
-'''
+
+## Pylon Viewer (Setup the IP)
+
+### 1. 設置 IP (GigE Vision)
+
+- 打開乙太網路屬性
+- 選擇 TCP/IPv4 並點擊屬性
+- 選擇 "使用下列的 IP 地址"：
+  - **IP 地址**：10.10.10.10
+  - **子網路遮罩**：255.255.255.0
+- 打開 Pylon IP Configurator
+- 選擇 "Static IP"
+  - **IP 地址**：10.10.10.11 (前三位要相同)
+  - **子網路遮罩**：255.255.255.0
+- 點擊 "保存"
+
