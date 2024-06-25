@@ -15,3 +15,4 @@
   - **子網路遮罩**：255.255.255.0
 - 點擊 "保存"
 
+## Pypylon (pylon python sdk) + opencv
