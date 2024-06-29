@@ -16,3 +16,6 @@
 - 點擊 "保存"
 
 ## Pypylon (pylon python sdk) + opencv
+
+camera_capture.py
+
